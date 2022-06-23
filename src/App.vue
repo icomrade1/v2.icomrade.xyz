@@ -3,22 +3,6 @@
 </script>
 
 <template>
-<head>
-          <!-- discord -->
-        <meta content="icomrade.xyz" property="og:title" />
-        <meta content="I'm giving you a night call to tell you how I feel
-                       I want to drive you through the night, down the hills
-                       I'm gonna tell you something you don't want to hear 
-                       I'm gonna show you where it's dark, but have no fear 
-                       There's something inside you
-                       It's hard to explain
-                       They're talking about you, boy
-                       But you're still the same" property="og:description" />
-        <meta content="https://www.icomrade.xyz" property="og:url">
-        <meta content="https://photos.app.goo.gl/jScDdypZq6ob25Cr8" itemprop="image" property="og:image">
-        <meta name="twitter:card" content="summary_large_image">
-       <meta content="#ff0000" data-react-helmet="true" name="theme-color" />
-</head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="in-middle">
  <button class="audio">Play</button>
